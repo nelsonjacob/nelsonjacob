@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Jacob -- a Junior at the University of Wisconsin -- Madison
+### Hi there 👋. I'm Jacob, a Junior at the University of Wisconsin - Madison.
 
 - 👨🏼‍💻 My work: I’m currently a data engineering intern at Liberty Mutual Insurance. I'm working on a master data management team to build a REST API using Spring Boot. More to come on what I am working on in the coming weeks!
 - 📒 What I am currently learning: I’m currently learning Spring Boot, Postman, Node.js, React.js, system design. In the fall, I will be enrolled in Algorithm Design (CS 577), Database Systems (CS 564), and Advanced Statistical Modeling (STAT 340).
